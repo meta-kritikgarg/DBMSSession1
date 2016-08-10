@@ -1,0 +1,2 @@
+USE LibraryInformationSystem;
+SHOW TABLES;

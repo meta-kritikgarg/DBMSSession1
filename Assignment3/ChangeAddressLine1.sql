@@ -1,0 +1,1 @@
+UPDATE members SET addressline1='EPIP, Sitapura' WHERE category = 'F';
